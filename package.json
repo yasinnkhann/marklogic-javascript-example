@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "marklogic": "^2.9.1"
+    "marklogic": "^2.9.1",
+    "marklogic-typescript-definitions": "^0.4.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
